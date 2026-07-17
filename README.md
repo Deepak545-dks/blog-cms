@@ -69,7 +69,4 @@ Open `http://localhost:5173` inside your browser.
 
 ---
 
-## 🔒 Default Admin Credentials
-For testing admin privileges on a fresh local JSON install:
-- **Email**: `admin@test.com`
-- **Password**: `password123`
+
