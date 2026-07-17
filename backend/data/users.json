@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "6696b9b3e100f28e2025170d",
+    "name": "CMS Admin",
+    "email": "admin@blogcms.com",
+    "password": "$2a$10$8Jwl37Oxqb660tv019bi6.6hkQrsIGGhZgg7iB3wfUMl9dSI.B1dC",
+    "profileImage": "",
+    "role": "admin",
+    "createdAt": "2026-07-16T15:09:45.966Z",
+    "updatedAt": "2026-07-16T15:09:45.966Z"
+  },
+  {
+    "_id": "c1c63x9mrnnapke",
+    "name": "Integration Tester",
+    "email": "tester-1784214585647@test.com",
+    "password": "$2a$10$i79tY2LvJf55tdFPJWfphOSQBgYmH6s3opD6ZwjP4EuYbO7eCukHW",
+    "profileImage": "",
+    "role": "user",
+    "createdAt": "2026-07-16T15:09:46.094Z",
+    "updatedAt": "2026-07-16T15:09:46.094Z"
+  },
+  {
+    "_id": "05djmwbmrno506g",
+    "name": "Deepak Kumar Sahu",
+    "email": "ds2998625@gmail.com",
+    "password": "$2a$10$6ZeWslxX6xumV4gnR9DNru6FbeTH0LQBiCyaZ5O56bzukeCYtwKqm",
+    "profileImage": "",
+    "role": "user",
+    "createdAt": "2026-07-16T15:33:19.528Z",
+    "updatedAt": "2026-07-16T15:33:19.530Z"
+  },
+  {
+    "_id": "mdwaulymrnqvl51",
+    "name": "Page Builder Tester",
+    "email": "builder-tester-1784220598701@test.com",
+    "password": "$2a$10$IxNuad5vBJdiri9Apyscx.LY2u2d8Odz29ZCihrADsPaqsJa6gWye",
+    "profileImage": "",
+    "role": "user",
+    "createdAt": "2026-07-16T16:49:58.981Z",
+    "updatedAt": "2026-07-16T16:49:58.982Z"
+  },
+  {
+    "_id": "kbzre9mmrnrr1jy",
+    "name": "Deepak Kumar Sahu",
+    "email": "ds7594567@gmail.com",
+    "password": "$2a$10$f94AtstkINGsKIwEGUqsSOjQwAaDxxanrZbmDczh7/KCBq1f5lnbG",
+    "profileImage": "",
+    "role": "user",
+    "createdAt": "2026-07-16T17:14:26.590Z",
+    "updatedAt": "2026-07-16T17:14:26.590Z"
+  }
+]

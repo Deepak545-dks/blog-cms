@@ -1,0 +1,14 @@
+{
+  "_id": "site_settings_default",
+  "siteName": "BlogCMS",
+  "siteLogo": "",
+  "favicon": "",
+  "contactEmail": "admin@blogcms.com",
+  "footerText": "© 2026 BlogCMS. All rights reserved.",
+  "socialFacebook": "",
+  "socialTwitter": "",
+  "socialGithub": "",
+  "socialLinkedin": "",
+  "createdAt": "2026-07-16T17:11:36.476Z",
+  "updatedAt": "2026-07-16T17:11:36.480Z"
+}

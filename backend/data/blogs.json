@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "b1c83x9mrnnapke20240716",
+    "title": "Welcome to BlogCMS!",
+    "slug": "welcome-to-blogcms",
+    "excerpt": "Discover the features of this modern, production-ready Content Management System setup.",
+    "content": "<h2>A Premium Experience</h2><p>Welcome to <strong>BlogCMS</strong>! This application features JWT authentication, local file upload capabilities, rich text editing with Quill, responsive layouts, and modern visual indicators.</p><p>You can create, edit, delete and publish blog posts. Give it a try by logging into your admin panel!</p>",
+    "featuredImage": "",
+    "category": "General",
+    "tags": [
+      "welcome",
+      "guide",
+      "cms"
+    ],
+    "status": "Published",
+    "author": "6696b9b3e100f28e2025170d",
+    "createdAt": "2026-07-15T15:29:33.936Z",
+    "updatedAt": "2026-07-15T15:29:33.938Z"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "page_home_123",
+    "title": "Home Page",
+    "slug": "home",
+    "layout": [
+      {
+        "id": "block_h1",
+        "type": "heading",
+        "text": "Welcome to our platform!",
+        "fontSize": "48px",
+        "color": "#cbd5e1",
+        "align": "center"
+      },
+      {
+        "id": "block_p1",
+        "type": "paragraph",
+        "text": "This is a beautiful page designed using the Drag and Drop Page Builder.",
+        "fontSize": "18px",
+        "color": "#94a3b8",
+        "align": "center"
+      },
+      {
+        "id": "block_div1",
+        "type": "divider",
+        "color": "#4f46e5",
+        "height": "4px"
+      },
+      {
+        "id": "block_btn1",
+        "type": "button",
+        "text": "Explore Blog Feed",
+        "url": "/blogs",
+        "backgroundColor": "#4f46e5",
+        "textColor": "#ffffff",
+        "borderRadius": "12px"
+      }
+    ],
+    "author": "mock_author_123",
+    "createdAt": "2026-07-16T16:49:59.035Z",
+    "updatedAt": "2026-07-16T16:49:59.035Z"
+  }
+]
